@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navbar h3 {
+    font-size: 1.1rem;
+}
+
+.row {
+    width: 100%;
+    margin: 0 0;
+}
+
+.nav-item {
+    font-family: 'Montserrat', sans-serif;
+    font-size: .65rem;
+    margin: 0 2.8%;
+    white-space: nowrap;
+}
+
+.navbar-light .navbar-nav .nav-link:focus {
+    color: #00C8C8;
+}
+
+.search-box {
+    width: 50%;
+    height: 20px;
+    border: 1px solid #ced4da;
+    margin: 0 6%;
+    padding: .375rem .75rem;
+    font-weight: 400;
+    font-size: .75rem;
+    line-height: 1.5;
+}
+
+.site-header {
+    background: url(https://i.ibb.co/t2ykS1r/photo.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.site-header__headlines {
+    margin: 7.4% 0;
+}
+
+.site-header__headlines h1 {
+    margin-bottom: 2.3%;
+}
+
+.address-cards {
+    margin: 2.8% 0;
+}
+
+.address-cards h4 {
+    font-size: .9rem;
+    font-weight: 700;
+}
+
+.address-cards p {
+    font-family: 'Roboto', sans-serif;
+    font-size: .7rem;
+}
+
+.address-cards .lead {
+    font-size: .8rem;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.btn-outline-primary {
+    font-family: 'Montserrat', sans-serif;
+    width: 60%;
+    height: 25%;
+    font-size: .9rem;
+    border-radius: 0px;
+    border-color: #00C8C8;
+    color: #00C8C8;
+}
+
+.btn-outline-primary:hover {
+    background-color: #00C8C8;
+    border-color: #00C8C8;
+}

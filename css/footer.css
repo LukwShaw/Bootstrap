@@ -1,0 +1,60 @@
+.additional-info h5 {
+    font-size: .7rem;
+    font-weight: 700;
+}
+
+.additional-info ul {
+    margin: 20px 0;
+    list-style: none;
+    font-size: .6rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: lighter;
+}
+
+.additional-info a {
+    text-decoration: none;
+    color: #7B7B7B;
+}
+
+.additional-info a:hover {
+    color: #00C8C8;
+}
+
+.additional-info li {
+    margin: 6px 0;
+}
+
+.award-card {
+    background: #333333;
+}
+
+.award-card .labels {
+    padding: 10% 0;
+    color: #fff;
+    font-size: 1.5rem;
+    white-space: nowrap;
+}
+
+.award-card h4 {
+    text-align: center;
+    margin: 0;
+}
+
+.social-cards {
+    height: 100%;
+    background: #00C8C8;
+}
+
+.social-cards__card {
+    margin: 10% 5%;
+    font-size: 1.8rem;
+}
+
+.social-cards__card a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.bottom-labels {
+    margin: 3%;
+}
